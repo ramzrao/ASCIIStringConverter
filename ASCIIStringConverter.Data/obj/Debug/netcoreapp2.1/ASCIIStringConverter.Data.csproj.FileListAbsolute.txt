@@ -1,0 +1,11 @@
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.deps.json
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.csprojAssemblyReference.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.AssemblyInfoInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.AssemblyInfo.cs
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.runtimeconfig.json
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.runtimeconfig.dev.json
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Data\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Data.pdb

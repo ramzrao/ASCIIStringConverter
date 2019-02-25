@@ -1,0 +1,9 @@
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Common.deps.json
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Common.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Common.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.csprojAssemblyReference.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.AssemblyInfoInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.AssemblyInfo.cs
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Common\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Common.pdb

@@ -1,0 +1,14 @@
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Business.deps.json
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Business.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Business.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.csprojAssemblyReference.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.AssemblyInfoInputs.cache
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.AssemblyInfo.cs
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Common.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.dll
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Common.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\bin\Debug\netcoreapp2.1\ASCIIStringConverter.Data.pdb
+C:\Users\ram\source\Projects\ASCIIStringConverter\ASCIIStringConverter.Business\obj\Debug\netcoreapp2.1\ASCIIStringConverter.Business.csproj.CopyComplete

@@ -1,0 +1,27 @@
+
+    <div >
+    <div class="row margin-top-50" >
+      <div class="col-md-12">
+          <p class="font-italic font-size-15">Please Enter Full Name</p>
+      </div>
+    </div>
+<div class="row">
+  <div class="col-md-6">
+  <form (ngSubmit)="submit()" ngNativeValidate>
+    <div class="form-group">
+      <label for="fullName">Full Name</label>
+      <input type="text" name="fullName" class="form-control" id="fullName" aria-describedby="name" placeholder="Enter Name" [(ngModel)]="person.fullName" required>
+      
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <div *ngIf="isLoading" class="spinner-border spinner" role="status">
+        <span class="sr-only">Loading...</span>
+    </div>
+  </form>
+</div>
+</div>
+
+
+<p class="lead margin-top-20" *ngIf="person.zeroCntInBinASCIIName != undefined">The number of zero's in Binary ASCII of Provided Full Name are : {{person.zeroCntInBinASCIIName}}</p>
+</div>

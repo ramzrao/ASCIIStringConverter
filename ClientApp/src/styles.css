@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+:host {
+    display: block;
+    padding: 0 20px;
+  }
+  .margin-top-50{
+    margin-top:50px;
+  }
+  .margin-top-20{
+    margin-top:20px;
+  }
+  .font-size-15{
+      font-size: 25px;
+  }
+  .border-form{
+
+        border: 2px solid grey;
+        border-radius: 5px;
+  }
